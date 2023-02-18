@@ -7,10 +7,6 @@ import base.BaseClass;
 public class CreateCourse extends BaseClass
 {
 	
-	@Test
-	public void createCourse()
-	{
-		
-	}
+	
 
 }
